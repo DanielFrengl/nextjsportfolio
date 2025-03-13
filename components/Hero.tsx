@@ -31,11 +31,11 @@ const Hero = () => {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless User Experiences"
+            words="All things, Daniel Frengl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
-            Hi, I&apos;m Daniel a Next.js Developer based in Czechia.
+            Hi, I&apos;m Daniel a Web Developer / Entrepreneur based in Czechia.
           </p>
 
           <a href="#about">
